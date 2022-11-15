@@ -10,7 +10,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
   - [Contributing](#contributing)
 
 ### Articles and Blogs
----
+
 1. [Improving data quality with data contracts (GoCardless)](https://medium.com/gocardless-tech/improving-data-quality-with-data-contracts-238041e35698) What are data contracts and GoCardless implementation of data contracts
 2. [Interfaces and Breaking Stuff by Tristan Handy (CEO, DBT)](https://roundup.getdbt.com/p/interfaces-and-breaking-stuff) Need of data contracts as data interfaces and analogy with software APIs
 3. [Implementing data contracts at GoCardless](https://medium.com/gocardless-tech/implementing-data-contracts-at-gocardless-3b5c49074d13) Data contract specification examples from GoCardless systems
@@ -32,7 +32,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 19. [Brain, kidney, cancer research and data contracts](https://www.dataengineeringweekly.com/p/brain-kidney-cancer-research-and) ([Schemata project](https://github.com/ananthdurai/schemata)) - Example of data contract explanation / discussion in simple terms for people outside of data space
 
 ### Videos
----
+
 1. [Inventing data contracts and building data for a FinTech unicorn with Andrew Jones of GoCardless](https://www.youtube.com/watch?v=xv0s_byNmzw)
 2. [Data contracts and domain ownership](https://www.youtube.com/watch?v=HsfvZ1D5mDU)
 3. [How data contracts can kill innovation](https://accelerationeconomy.com/data/data-revolution-minute/how-data-contracts-can-kill-innovation/)
@@ -50,10 +50,10 @@ Data contracts is an amazing initiative to bring data producers and data consume
 6. [Schemata](https://github.com/ananthdurai/schemata) - Schemata is a schema modeling framework for decentralized domain-driven ownership of data. Schemata combines a set of standard metadata definitions for each schema & data field and a scoring algorithm to provide a feedback loop on how efficient the data modeling of your data warehouse is.
 
 ### Related
----
+
 1. [Establish formal data contracts between consumers and producers](https://blogs.perficient.com/2018/08/02/establishing-formal-data-contracts-between-data-owners-data-consumers/) Older article from 2018 that explored the concept of data contracts (Older generation article)
 2. [Data Mesh — A Data Movement and Processing Platform @ Netflix -](https://netflixtechblog.com/data-mesh-a-data-movement-and-processing-platform-netflix-1288bcab2873) Schema enforcement in Netflix’s data mesh platform
 
 ### Contributing
 
-Your contributions are always welcome! Please go ahead and create a pull request. We'll review each and every one. We will keep some pull requests open if we not sure whether the PRs are awesome or relevant, you could vote for them by adding 👍 to them. Pull requests will be merged when their votes reach 5.
+**Your contributions are most welcome!** Please go ahead and create a pull request. We'll review each and every one. We will keep some pull requests open if we not sure whether the PRs are awesome or relevant, you could vote for them by adding 👍 to them. Pull requests will be merged when their votes reach 5.
