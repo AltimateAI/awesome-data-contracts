@@ -7,7 +7,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
   - [Videos](#videos)
   - [Tools](#tools)
   - [Related Blogs](#related)
-  - [Contributing](#contributing)
+- [Contributing](#contributing)
 
 ## Articles and Blogs
 
@@ -54,6 +54,6 @@ Data contracts is an amazing initiative to bring data producers and data consume
 1. [Establish formal data contracts between consumers and producers](https://blogs.perficient.com/2018/08/02/establishing-formal-data-contracts-between-data-owners-data-consumers/) Older article from 2018 that explored the concept of data contracts (Older generation article)
 2. [Data Mesh — A Data Movement and Processing Platform @ Netflix -](https://netflixtechblog.com/data-mesh-a-data-movement-and-processing-platform-netflix-1288bcab2873) Schema enforcement in Netflix’s data mesh platform
 
-## Contributing
+# Contributing
 
 **Your contributions are most welcome!** Please go ahead and create a pull request. We'll review each and every one. We will keep some pull requests open if we not sure whether the PRs are awesome or relevant, you could vote for them by adding 👍 to them. Pull requests will be merged when their votes reach 5.
