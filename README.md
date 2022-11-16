@@ -24,7 +24,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 11. [Yet another post on data contracts - part III](https://davidsj.substack.com/p/yet-another-post-on-data-contracts-dad) Deeper dive on current tooling that can be used for data contracts implementation
 12. [Are we setting data contracts in the right place?](https://petrjanda.substack.com/p/the-art-of-drawing-lines?ref=Data+News-newsletter)  Considerations and analogies from software architecture world while defining data contracts
 13. [Implementing data contracts](https://medium.com/@danthelion/implementing-data-contracts-82800b9186b) Specifications and real world architecture example of data contract implementation
-14. [The best data contract is the pull request](https://www.datafold.com/blog/the-best-data-contract-is-the-pull-request) Datafold’s view on how best data contract is pull request
+14. [The best data contract is the pull request](https://www.datafold.com/blog/the-best-data-contract-is-the-pull-request) Datafold’s view on how the best data contract is pull request
 15. [An open letter to data ninjas - yes, you need to implement data contracts](https://www.dataengineeringweekly.com/p/an-open-letter-to-data-ninjas-yes) View on implementations and specifications of data contracts
 16. [Data person: attorney at law](https://stkbailey.substack.com/p/data-person-attorney-at-law) Interesting view on data contracts which turn data engineers into data lawyers by Stephen Bailey
 17. [Demystifying event streams](https://docs.getdbt.com/blog/demystifying-event-streams) - New event streams model at Merit and event specifications being treated as data contracts - named OMG contract
