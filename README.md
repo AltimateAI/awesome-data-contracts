@@ -5,6 +5,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [*Awesome* Data Contracts](#awesome-data-contracts)
   - [Articles and Blogs](#articles-and-blogs)
   - [Videos](#videos)
+  - [Podcasts](#podcasts)
   - [Tools](#tools)
   - [Related Blogs](#related)
 - [Contributing](#contributing)
@@ -39,6 +40,13 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Getting jiggy with jsonschema: The power of contracts for building data systems](https://www.youtube.com/watch?v=s6iy0hqjcLk)
 - [Data Contracts: Accountable Data Quality w/ Chad Sanderson - UDEM October 2022](https://www.youtube.com/watch?v=2U4g4YaQDTc)
 - [Data Contract Battle Royale w/ Chad Sanderson vs Ethan Aaron](https://www.youtube.com/watch?v=4BEpYAp3Qu4)
+
+## Podcasts
+
+- [Why You'll Need Data Contracts (w/ Chad Sanderson + Prukalpa)](https://open.spotify.com/episode/65Hs5C3yAJI138ZAGPdHhd)
+  - The Analytics Engineering Podcast (11/18/2022)
+- [Data Contracts & Domain Ownership w/ Ananth Packkildurai](https://open.spotify.com/episode/3agnuRLuIDDsJCdvRmPzp4?si=wXaz3bf_Qqq34fe5prQORw)
+  - Monday Morning Data Chat (5/24/2022)
 
 ## Tools
 
