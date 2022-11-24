@@ -31,6 +31,9 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Demystifying event streams](https://docs.getdbt.com/blog/demystifying-event-streams) - New event streams model at Merit and event specifications being treated as data contracts - named OMG contract
 - [Fine let’s talk about data contracts](https://benn.substack.com/p/data-contracts) - Different view on viability and usability of data contracts
 - [Brain, kidney, cancer research and data contracts](https://www.dataengineeringweekly.com/p/brain-kidney-cancer-research-and) ([Schemata project](https://github.com/ananthdurai/schemata)) - Example of data contract explanation / discussion in simple terms for people outside of data space
+- [The rise of data contracts](https://dataproducts.substack.com/p/the-rise-of-data-contracts) - (Q/A style article on what are data contracts and why we need them) 
+- [Data contracts from zero to hero](https://link.medium.com/rC07GQaW2ub) - a pragmatic approach to data contracts
+- [Data contracts: ensure robustness in your data mesh architecture](https://link.medium.com/Bo7JOVnW2ub) - Data contracts as part of metadata driven ingestion network
 
 ## Videos
 
