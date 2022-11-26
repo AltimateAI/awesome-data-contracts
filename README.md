@@ -7,6 +7,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
   - [Videos](#videos)
   - [Podcasts](#podcasts)
   - [Tools](#tools)
+  - [Specifications and Protocols](#specifications-and-protocols)
   - [Related Blogs](#related)
 - [Contributing](#contributing)
 
@@ -59,6 +60,10 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Buz](https://buz.dev/) - Buz collects, validates, and delivers schematized data to where it needs to bee
 - [Benthos](https://github.com/benthosdev/benthos) - Benthos is a high performance and resilient stream processor, able to connect various sources and sinks in a range of brokering patterns and perform hydration, enrichments, transformations and filters on payloads.
 - [Schemata](https://github.com/ananthdurai/schemata) - Schemata is a schema modeling framework for decentralized domain-driven ownership of data. Schemata combines a set of standard metadata definitions for each schema & data field and a scoring algorithm to provide a feedback loop on how efficient the data modeling of your data warehouse is.
+
+## Specifications and Protocols
+
+- [Data Product Descriptor Specification](https://dpds.opendatamesh.org/): An open specification that declaratively defines a data product in all its components using a JSON or YAML descriptor document. 
 
 ## Related
 
