@@ -43,6 +43,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Getting jiggy with jsonschema: The power of contracts for building data systems](https://www.youtube.com/watch?v=s6iy0hqjcLk)
 - [Data Contracts: Accountable Data Quality w/ Chad Sanderson - UDEM October 2022](https://www.youtube.com/watch?v=2U4g4YaQDTc)
 - [Data Contract Battle Royale w/ Chad Sanderson vs Ethan Aaron](https://www.youtube.com/watch?v=4BEpYAp3Qu4)
+- [Driving ML data quality with data contracts](https://home.mlops.community/home/videos/driving-ml-data-quality-with-data-contracts)
 
 ## Podcasts
 
