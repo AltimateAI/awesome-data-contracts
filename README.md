@@ -34,6 +34,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [The rise of data contracts](https://dataproducts.substack.com/p/the-rise-of-data-contracts) - (Q/A style article on what are data contracts and why we need them) 
 - [Data contracts from zero to hero](https://link.medium.com/rC07GQaW2ub) - a pragmatic approach to data contracts
 - [Data contracts: ensure robustness in your data mesh architecture](https://link.medium.com/Bo7JOVnW2ub) - Data contracts as part of metadata driven ingestion network
+- [Data contracts wrapped 2022] - Data contracts creation, storage, enforcement and application
 
 ## Videos
 
