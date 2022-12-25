@@ -35,8 +35,8 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Data contracts from zero to hero](https://link.medium.com/rC07GQaW2ub) - a pragmatic approach to data contracts
 - [Data contracts: ensure robustness in your data mesh architecture](https://link.medium.com/Bo7JOVnW2ub) - Data contracts as part of metadata driven ingestion network
 - [Implementing data contracts](https://medium.com/@danthelion/implementing-data-contracts-82800b9186b) - Implementing basic schema based data contract with Kafka schema registry
-- [Data contracts wrapped 2022] - Data contracts creation, storage, enforcement and application
-- [McDonald's event driven architecture and data journey] - Use of data contracts in McDonald's event driven architecture
+- [Data contracts wrapped 2022](https://blog.datahubproject.io/data-contracts-wrapped-2022-470e0c43365d) - Data contracts creation, storage, enforcement and application
+- [McDonald's event driven architecture and data journey](https://medium.com/mcdonalds-technical-blog/mcdonalds-event-driven-architecture-the-data-journey-and-how-it-works-4591d108821f) - Use of data contracts in McDonald's event driven architecture
 
 
 ## Videos
