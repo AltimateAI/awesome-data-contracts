@@ -38,7 +38,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Data contracts - ensure robustness in your data mesh architecture](https://towardsdatascience.com/data-contracts-ensure-robustness-in-your-data-mesh-architecture-69a3c38f07db) - Interesting view on using data sharing agreements in data mesh architecutre and how data contracts validation should be done as data products sidecar
 - [Data contracts wrapped 2022](https://blog.datahubproject.io/data-contracts-wrapped-2022-470e0c43365d) - Data contracts creation, storage, enforcement and application
 - [McDonald's event driven architecture and data journey](https://medium.com/mcdonalds-technical-blog/mcdonalds-event-driven-architecture-the-data-journey-and-how-it-works-4591d108821f) - Use of data contracts in McDonald's event driven architecture
-
+- [Implementing data contracts in data warehouse](https://dataproducts.substack.com/p/data-contracts-for-the-warehouse) - Data contracts validation in data warehouse and downstream systems and not just limited to source systems.
 
 ## Videos
 
