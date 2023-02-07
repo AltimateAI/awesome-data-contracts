@@ -33,7 +33,6 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Brain, kidney, cancer research and data contracts](https://www.dataengineeringweekly.com/p/brain-kidney-cancer-research-and) ([Schemata project](https://github.com/ananthdurai/schemata)) - Example of data contract explanation / discussion in simple terms for people outside of data space
 - [The rise of data contracts](https://dataproducts.substack.com/p/the-rise-of-data-contracts) - (Q/A style article on what are data contracts and why we need them) 
 - [Data contracts from zero to hero](https://link.medium.com/rC07GQaW2ub) - a pragmatic approach to data contracts
-- [Data contracts: ensure robustness in your data mesh architecture](https://link.medium.com/Bo7JOVnW2ub) - Data contracts as part of metadata driven ingestion network
 - [Implementing data contracts](https://medium.com/@danthelion/implementing-data-contracts-82800b9186b) - Implementing basic schema based data contract with Kafka schema registry
 - [Data contracts - ensure robustness in your data mesh architecture](https://towardsdatascience.com/data-contracts-ensure-robustness-in-your-data-mesh-architecture-69a3c38f07db) - Interesting view on using data sharing agreements in data mesh architecutre and how data contracts validation should be done as data products sidecar
 - [Data contracts wrapped 2022](https://blog.datahubproject.io/data-contracts-wrapped-2022-470e0c43365d) - Data contracts creation, storage, enforcement and application
