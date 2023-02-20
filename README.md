@@ -55,6 +55,8 @@ Data contracts is an amazing initiative to bring data producers and data consume
   - The Analytics Engineering Podcast (11/18/2022)
 - [Data Contracts & Domain Ownership w/ Ananth Packkildurai](https://open.spotify.com/episode/3agnuRLuIDDsJCdvRmPzp4?si=wXaz3bf_Qqq34fe5prQORw)
   - Monday Morning Data Chat (5/24/2022)
+- [The Importance Of Data Contracts As The Interface For Data Integration With Abhi Sivasailam](https://www.dataengineeringpodcast.com/data-contracts-for-data-mesh-episode-258/)
+  - The Data Engineering Podcast (1/23/2022)
 
 ## Tools
 
