@@ -38,6 +38,8 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Data contracts wrapped 2022](https://blog.datahubproject.io/data-contracts-wrapped-2022-470e0c43365d) - Data contracts creation, storage, enforcement and application
 - [McDonald's event driven architecture and data journey](https://medium.com/mcdonalds-technical-blog/mcdonalds-event-driven-architecture-the-data-journey-and-how-it-works-4591d108821f) - Use of data contracts in McDonald's event driven architecture
 - [Implementing data contracts in data warehouse](https://dataproducts.substack.com/p/data-contracts-for-the-warehouse) - Data contracts validation in data warehouse and downstream systems and not just limited to source systems.
+- [7 Lessons From GoCardless’ Implementation of Data Contracts](https://www.montecarlodata.com/blog-data-contracts/)
+- [Data Contracts: The Key to Scaling Distributed Data Architecture and Reducing Data Chaos](https://atlan.com/data-contracts/?ref=/open-source-data-quality-tools/)
 
 ## Videos
 
@@ -48,6 +50,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Data Contracts: Accountable Data Quality w/ Chad Sanderson - UDEM October 2022](https://www.youtube.com/watch?v=2U4g4YaQDTc)
 - [Data Contract Battle Royale w/ Chad Sanderson vs Ethan Aaron](https://www.youtube.com/watch?v=4BEpYAp3Qu4)
 - [Driving ML data quality with data contracts](https://home.mlops.community/home/videos/driving-ml-data-quality-with-data-contracts)
+- [How to use Data Contracts for Long-Term Schema Management](https://www.youtube.com/watch?v=ZIJB8cs-cJU&ab_channel=Confluent)
 
 ## Podcasts
 
