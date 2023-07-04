@@ -54,6 +54,8 @@ Data contracts is an amazing initiative to bring data producers and data consume
 
 ## Podcasts
 
+- [Intro to Data Contracts w/ Andrew Jones](https://open.spotify.com/episode/4mN8uOxyMzmGsbTo0erRgi)
+  - Monday Morning Data Chat (7/3/2023)
 - [Why You'll Need Data Contracts (w/ Chad Sanderson + Prukalpa)](https://open.spotify.com/episode/65Hs5C3yAJI138ZAGPdHhd)
   - The Analytics Engineering Podcast (11/18/2022)
 - [Data Contracts & Domain Ownership w/ Ananth Packkildurai](https://open.spotify.com/episode/3agnuRLuIDDsJCdvRmPzp4?si=wXaz3bf_Qqq34fe5prQORw)
