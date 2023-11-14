@@ -80,6 +80,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 
 ## Specifications and Protocols
 
+- [Open Data Contract Specification](https://github.com/bitol-io/open-data-contract-standard): A community-driven open standard to define data contract around eight sections: demographics, schema, Data Quality, pricing, stakeholders, security, SLA, and custom properties.
 - [Data Product Descriptor Specification](https://dpds.opendatamesh.org/): An open specification that declaratively defines a data product in all its components using a JSON or YAML descriptor document. 
 
 ## Related
