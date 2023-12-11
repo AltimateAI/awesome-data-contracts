@@ -14,6 +14,8 @@ Data contracts is an amazing initiative to bring data producers and data consume
 
 ## Articles and Blogs
 
+- [Why the Need for Standardizing Data Contracts?](https://medium.com/abeadata/why-the-need-for-standardizing-data-contracts-133bc3491148) The genesis of Bitol or why data contracts are an essential part of modern data engineering.
+- [Data Contract 101](https://medium.com/profitoptics/data-contract-101-568a9adbf9a9) A quick and not-so-dirty introduction to data contracts, focusing on the Open Data Contract Standard (ODCS).
 - [Improving data quality with data contracts (GoCardless)](https://medium.com/gocardless-tech/improving-data-quality-with-data-contracts-238041e35698) What are data contracts and GoCardless implementation of data contracts
 - [Interfaces and Breaking Stuff by Tristan Handy (CEO, DBT)](https://roundup.getdbt.com/p/interfaces-and-breaking-stuff) Need of data contracts as data interfaces and analogy with software APIs
 - [Implementing data contracts at GoCardless](https://medium.com/gocardless-tech/implementing-data-contracts-at-gocardless-3b5c49074d13) Data contract specification examples from GoCardless systems
