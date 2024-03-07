@@ -48,6 +48,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 ## Books
 
 - [Driving Data Quality with Data Contracts](https://data-contracts.com)
+- [Data Contracts](https://learning.oreilly.com/library/view/data-contracts/9781098157623/)
 
 ## Videos
 
