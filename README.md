@@ -44,6 +44,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Implementing data contracts in data warehouse](https://dataproducts.substack.com/p/data-contracts-for-the-warehouse) - Data contracts validation in data warehouse and downstream systems and not just limited to source systems.
 - [7 Lessons From GoCardless’ Implementation of Data Contracts](https://www.montecarlodata.com/blog-data-contracts/)
 - [Data Contracts: The Key to Scaling Distributed Data Architecture and Reducing Data Chaos](https://atlan.com/data-contracts/?ref=/open-source-data-quality-tools/)
+- [Using Data Contracts with Confluent Schema Registry](https://www.confluent.io/blog/data-contracts-confluent-schema-registry/)
 
 ## Books
 
