@@ -45,6 +45,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [7 Lessons From GoCardless’ Implementation of Data Contracts](https://www.montecarlodata.com/blog-data-contracts/)
 - [Data Contracts: The Key to Scaling Distributed Data Architecture and Reducing Data Chaos](https://atlan.com/data-contracts/?ref=/open-source-data-quality-tools/)
 - [Using Data Contracts with Confluent Schema Registry](https://www.confluent.io/blog/data-contracts-confluent-schema-registry/)
+- [Data Contracts in Action - Testing](https://medium.com/@pflooky/data-contracts-in-action-testing-111631338657?sk=8cea6c4e08a48d7e123b07b3e6a27713)
 
 ## Books
 
@@ -80,6 +81,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Iteratively](https://iterative.ly/) - Bring your data teams, product managers and engineers together to define, instrument, verify and collaborate on analytics tracking
 - [Buz](https://buz.dev/) - Buz collects, validates, and delivers schematized data to where it needs to bee
 - [Benthos](https://github.com/benthosdev/benthos) - Benthos is a high performance and resilient stream processor, able to connect various sources and sinks in a range of brokering patterns and perform hydration, enrichments, transformations and filters on payloads.
+- [Data Caterer](https://github.com/data-catering/data-caterer) - Data Caterer is a test data management tool that can leverage the rich metadata from data contracts to help simulate production-like data and validate your data pipelines
 - [Schemata](https://github.com/ananthdurai/schemata) - Schemata is a schema modeling framework for decentralized domain-driven ownership of data. Schemata combines a set of standard metadata definitions for each schema & data field and a scoring algorithm to provide a feedback loop on how efficient the data modeling of your data warehouse is.
 
 ## Specifications and Protocols
