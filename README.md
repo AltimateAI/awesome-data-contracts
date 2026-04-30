@@ -84,6 +84,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Data Caterer](https://github.com/data-catering/data-caterer) - Data Caterer is a test data management tool that can leverage the rich metadata from data contracts to help simulate production-like data and validate your data pipelines
 - [Provero](https://github.com/provero-org/provero) - Provero is a vendor-neutral, declarative data quality engine with built-in data contracts support. Define checks and contracts in YAML, run anywhere. Features include schema validation, SLA enforcement (freshness, completeness), contract versioning with diff, and violation blocking.
 - [Schemata](https://github.com/ananthdurai/schemata) - Schemata is a schema modeling framework for decentralized domain-driven ownership of data. Schemata combines a set of standard metadata definitions for each schema & data field and a scoring algorithm to provide a feedback loop on how efficient the data modeling of your data warehouse is.
+- [DataKitchen Open Source Data Observability](https://docs.datakitchen.io/articles/?readerUiPreview=1#!open-source-data-observability/data-observability-overview) - End to end Data Journey Observability plus data profiling, anomaly detection, and auto created data quality validation tests.  With UI. Apache 2.0 license
 
 ## Specifications and Protocols
 
