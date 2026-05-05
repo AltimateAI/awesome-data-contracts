@@ -89,6 +89,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 
 - [Open Data Contract Specification](https://github.com/bitol-io/open-data-contract-standard): A community-driven open standard to define data contract around eight sections: demographics, schema, Data Quality, pricing, stakeholders, security, SLA, and custom properties.
 - [Data Product Descriptor Specification](https://dpds.opendatamesh.org/): An open specification that declaratively defines a data product in all its components using a JSON or YAML descriptor document. 
+- [Data Landscape](https://www.data-landscape.com): An interactive map of the open standards behind a modern data architecture — covering contracts (ODCS, OpenAPI, AsyncAPI), data products (ODPS, DPDS), schema, query, processing, table formats, lineage, and more.
 
 ## Related
 
