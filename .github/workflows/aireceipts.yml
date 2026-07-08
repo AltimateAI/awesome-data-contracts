@@ -7,6 +7,6 @@ jobs:
   check:
     runs-on: ubuntu-latest
     steps:
-      - run: npx -y aireceipts-cli@0.5.0 pr-check
+      - run: npx -y aireceipts-cli@latest pr-check
         env:
           GH_TOKEN: ${{ github.token }}
