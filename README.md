@@ -46,6 +46,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 - [Data Contracts: The Key to Scaling Distributed Data Architecture and Reducing Data Chaos](https://atlan.com/data-contracts/?ref=/open-source-data-quality-tools/)
 - [Using Data Contracts with Confluent Schema Registry](https://www.confluent.io/blog/data-contracts-confluent-schema-registry/)
 - [Data Contracts in Action - Testing](https://medium.com/@pflooky/data-contracts-in-action-testing-111631338657?sk=8cea6c4e08a48d7e123b07b3e6a27713)
+- [A valid schema can still describe the wrong comparison](https://github.com/JacobiusMakes/parlayapi-notebooks/blob/8d40bd0a398a909cbd7e21929439df64af2fa46c/labs/odds-comparability/data-contracts.md) - Fictional odds examples distinguish schema validation from semantic contracts for event identity, settlement rules and source freshness.
 
 ## Books
 
