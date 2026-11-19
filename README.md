@@ -76,6 +76,7 @@ Data contracts is an amazing initiative to bring data producers and data consume
 
 ## Tools
 
+- [Feature Contracts](https://github.com/RishabhPande/feature-contracts) - Experimental Python checks for broken feature relations, with a synthetic corruption example.
 - [Avo.app](http://Avo.app) - Avo is a data governance platform that error-proofs your analytics events and speeds up implementation.
 - [Reflekt](https://github.com/GClunies/Reflekt) - Define tracking plans as code for analytics
 - [Iteratively](https://iterative.ly/) - Bring your data teams, product managers and engineers together to define, instrument, verify and collaborate on analytics tracking
